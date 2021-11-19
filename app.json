@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "seletivo_UDNA",
+    "slug": "seletivo_UDNA",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "seletivo_UDNA"
+}
